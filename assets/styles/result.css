@@ -4,6 +4,8 @@
 
 .result {
 	display: block;
+	padding: 30px;
+	border-radius: 10px;		
 }
 
 .result__restart {
@@ -12,5 +14,31 @@
 }
 
 .result__description {
-	font-family: Jura-Light;
+	font-family: Jura-Bold;
+	background-color: rgb(210, 210, 210, 0.4);
+	padding: 10px;
+	border-radius: 10px;
+	margin-top: 15px;
+	margin-bottom: 15px;
 }
+
+img {
+	width: 250px;
+	border-radius: 10px;
+	border: 2px white;
+	border-color: white;
+	align-self: center;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.image{
+	margin-top: 15px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-radius: 10px;
+	background-color: rgb(210, 210, 210, 0.4);
+}
+
