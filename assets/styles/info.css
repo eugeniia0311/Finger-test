@@ -1,0 +1,60 @@
+.test-description {
+    font-size: 20px;
+    font-family: Jura-Light;
+    letter-spacing: 1px;
+}
+
+.question__count {
+    background-color:  rgb(210, 210, 210, 0.6);
+    border-radius: 4px;
+    padding: 5px;
+    width: 50px;   
+    text-align: center;
+    margin-top: 10px; 
+    
+}
+
+.question__count span {
+    font-family: Jura-Bold;
+}
+
+
+.result {
+    font-family: Jura-Regular;
+    font-size: 17px;
+}
+
+.start {
+    padding: 7px;
+}
+
+@font-face{
+    font-family: Jura-Bold;
+    src: url('../fonts/Jura-Bold.ttf');
+}
+
+
+@font-face{
+    font-family: Jura-Light;
+    src: url('../fonts/Jura-light.ttf');
+}
+
+
+@font-face{
+    font-family: Amatic-Regular;
+    src: url('../fonts/AmaticSC-Regular.ttf');
+}
+
+
+@font-face{
+    font-family: Amatic-Bold;
+    src: url('../fonts/AmaticSC-Bold.ttf');
+}
+
+.info {
+    display: block;
+}
+
+.info.-hidden {
+    display: none;
+}

@@ -1,0 +1,12 @@
+.question.-hidden {
+	display: none;
+}
+
+.question {
+	display: block;
+}
+.question__answer li {
+	list-style-type: none;
+	padding: 5px;
+}	
+

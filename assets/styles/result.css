@@ -1,0 +1,16 @@
+.result.-hidden {
+	display: none;
+}
+
+.result {
+	display: block;
+}
+
+.result__restart {
+	margin-top: 15px;
+	padding: 5px;
+}
+
+.result__description {
+	font-family: Jura-Light;
+}
